@@ -1,0 +1,4 @@
+1.ESP32 Board (ESP-WROOM-32)
+2.ECG Sensor AD8232 ECG Sensor Kit
+3.Data Cable
+4.Breadboard
